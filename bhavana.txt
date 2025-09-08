@@ -1,0 +1,5 @@
+patnala bhavana
+Artificial intelligence
+github is a platform for version control and collaboration.
+github lets you all work on different features at same time,
+keep track of who changed what, and merge together without overwriting each ohers work.
